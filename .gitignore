@@ -1,0 +1,8 @@
+test.py
+.settings
+.project
+.pydevproject
+image
+*.pyc
+download-baidu-pictures.tar.gz
+cookies.txt
